@@ -57,7 +57,6 @@
   
 <!--START_SECTION:activity-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergio-prada-963" alt="sergio-prada-963" /></a> </p>
-![forgit1](https://github.com/Sergio-Prada-963/Sergio-Prada-963/assets/133453267/728e6576-ef46-439f-9dc1-27d477ae4e53)
 <!--END_SECTION:activity-->
 
 </details>
@@ -72,5 +71,6 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sergio-Prada-963&" alt="Sergio-Prada*963" /></p>
 
 </details>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sergio-Prada-963&label=Profile%20views&color=0e75b6&style=flat" alt="sergio-prada-963" /> </p>
+
+![forgit1](https://github.com/Sergio-Prada-963/Sergio-Prada-963/assets/133453267/728e6576-ef46-439f-9dc1-27d477ae4e53)
