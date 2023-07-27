@@ -57,6 +57,7 @@
   
 <!--START_SECTION:activity-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergio-prada-963" alt="sergio-prada-963" /></a> </p>
+![forgit1](https://github.com/Sergio-Prada-963/Sergio-Prada-963/assets/133453267/728e6576-ef46-439f-9dc1-27d477ae4e53)
 <!--END_SECTION:activity-->
 
 </details>
