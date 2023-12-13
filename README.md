@@ -35,6 +35,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Sergio-Prada-963/Sergio-Prada-963/assets/133453267/126dff78-79ec-4390-918a-c1dbaab3310e" style="padding-right:10px;" />
+
 
 <br />
 <br />
